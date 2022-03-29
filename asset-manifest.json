@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Robofriends/static/css/main.873cb632.css",
-    "main.js": "/Robofriends/static/js/main.b6ab3b9c.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Robofriends/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/Robofriends/index.html",
-    "main.873cb632.css.map": "/Robofriends/static/css/main.873cb632.css.map",
-    "main.b6ab3b9c.js.map": "/Robofriends/static/js/main.b6ab3b9c.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Robofriends/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/np/static/css/main.873cb632.css",
+    "main.js": "/np/static/js/main.ce0c742e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/np/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/np/index.html",
+    "main.873cb632.css.map": "/np/static/css/main.873cb632.css.map",
+    "main.ce0c742e.js.map": "/np/static/js/main.ce0c742e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/np/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.873cb632.css",
-    "static/js/main.b6ab3b9c.js"
+    "static/js/main.ce0c742e.js"
   ]
 }
